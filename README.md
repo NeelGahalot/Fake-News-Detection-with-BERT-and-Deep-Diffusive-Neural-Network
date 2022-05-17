@@ -1,1 +1,1 @@
-# nyu-dl-project-2
+# fake-news-detection-lstm-bert
