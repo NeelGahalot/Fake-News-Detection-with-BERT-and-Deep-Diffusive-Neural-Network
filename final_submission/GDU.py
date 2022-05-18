@@ -1,3 +1,8 @@
+"""
+    This is a definition of the Gated Diffusive Unit explained in our report. 
+    Originally written by Jiawei Zhang (https://github.com/jwzhanggy).
+"""
+
 
 import math
 from enum import IntEnum
